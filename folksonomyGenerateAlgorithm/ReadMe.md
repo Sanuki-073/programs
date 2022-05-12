@@ -6,7 +6,7 @@
 
 https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%BD%E3%83%8E%E3%83%9F%E3%83%BC#:~:text=%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%BD%E3%83%8E%E3%83%9F%E3%83%BC%EF%BC%88%E8%8B%B1%3A%20folksonomy,%E5%90%88%E3%82%8F%E3%81%9B%E3%81%9F%E9%80%A0%E8%AA%9E%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82
 
-# YuleSimon過程
+# Yule–Simon過程
 
 優先的選択を行うという仮定が入った確率過程。
 
@@ -18,5 +18,5 @@ https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%BD%E3%8
 
 １回につき複数生成する場合は当然αが低ければかぶるが、元の定義通りなため修正しない。
 
-これを修正するとWindowed Yule--Simon過程になる。
+これを修正するとWindowed Yule–Simon過程になる。
 https://www.ai-gakkai.or.jp/jsai2015/webprogram/2015/pdf/2H3-3.pdf
