@@ -20,3 +20,8 @@ https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%BD%E3%8
 
 これを修正するとWindowed Yule–Simon過程になる。
 https://www.ai-gakkai.or.jp/jsai2015/webprogram/2015/pdf/2H3-3.pdf
+
+# GraphWalkとは
+Cattutoらが提案した手法(https://www.pnas.org/doi/10.1073/pnas.0901136106)に条件を変更できるようにしたもの。
+
+共起グラフをランダムウォーク(もしくは共起確率によったランダムウォーク)をすることでハッシュタグを生成するという手法。
