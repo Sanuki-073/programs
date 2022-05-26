@@ -16,7 +16,7 @@ https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%BD%E3%8
 
 生成するという超単純な過程。
 
-１回につき複数生成する場合は当然αが低ければかぶるが、元の定義通りなため修正しない。
+１回につき複数生成する場合は当然αが低ければかぶる。fixed_T＝Trueとしてくれれば、もし被りがあれば再生成する。
 
 これを修正するとWindowed Yule–Simon過程になる。
 https://www.ai-gakkai.or.jp/jsai2015/webprogram/2015/pdf/2H3-3.pdf
