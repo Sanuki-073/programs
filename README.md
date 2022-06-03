@@ -3,4 +3,7 @@
 
 もし問題等あれば、issueもしくは以下の連絡先に連絡をいただけると幸いです。
 
+#Qiita
+https://qiita.com/amenashi
+
 amenashiudon@gmail.com
